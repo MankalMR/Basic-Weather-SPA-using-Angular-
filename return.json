@@ -1,0 +1,67 @@
+{
+  "city": {
+    "id": 1264527,
+    "name": "Chennai",
+    "coord": {
+      "lon": 80.278473,
+      "lat": 13.08784
+    },
+    "country": "IN",
+    "population": 0
+  },
+  "cod": "200",
+  "message": 0.0631,
+  "cnt": 2,
+  "list": [
+    {
+      "dt": 1468476000,
+      "temp": {
+        "day": 296,
+        "min": 296,
+        "max": 296,
+        "night": 296,
+        "eve": 296,
+        "morn": 296
+      },
+      "pressure": 1007.72,
+      "humidity": 98,
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ],
+      "speed": 2.85,
+      "deg": 224,
+      "clouds": 88,
+      "rain": 3.62
+    },
+    {
+      "dt": 1468562400,
+      "temp": {
+        "day": 305.69,
+        "min": 296.38,
+        "max": 306.35,
+        "night": 297.95,
+        "eve": 298.99,
+        "morn": 296.38
+      },
+      "pressure": 1007.74,
+      "humidity": 74,
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ],
+      "speed": 2.01,
+      "deg": 254,
+      "clouds": 0,
+      "rain": 5.37
+    }
+  ]
+}

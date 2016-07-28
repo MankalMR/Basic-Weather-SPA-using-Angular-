@@ -1,0 +1,8 @@
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">{{convertDate({date : dayObject.dt}) | date: 'MM/dd/yyyy'}}</h3>
+    </div>
+    <div class="panel-body">
+        Daytime temperature: {{ convertTemp({k : dayObject.temp.day})}} F
+    </div>
+</div>
